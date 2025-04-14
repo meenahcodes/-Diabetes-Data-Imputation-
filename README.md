@@ -5,7 +5,8 @@ In this project, I cleaned and preprocessed the diabetes dataset, detected missi
 
 ## About the Dataset
 
-I used the well-known Diabetes dataset, which contains medical data collected from 768 female patients in the Phoenix, Arizona area between 1965 and 1975. 
+I used the Pima Indians Diabetes dataset, which contains medical data collected from 768 Pima Indian women living in Phoenix, Arizona area between 1965 and 1975. 
+. It contains data collected from 
 Each patient is described by 9 attributes:
 
  **Pregnancies:** Number of times the patient has been pregnant.
